@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "nD1xr8FdFFZcDnkQsJVH9"
+uri = "file://artifacts/tortas-y-tacos/src/assets/tacos-pastor.png"
+type = "image"
+title = "Tacos al pastor on wooden board"
+
+[[generated]]
+id = "GvTklocSJbyWplOw9ox6L"
+uri = "file://artifacts/tortas-y-tacos/src/assets/tortillas-comal.png"
+type = "image"
+title = "Hand-pressed tortillas on comal"
+
+[[generated]]
+id = "XpLN5hZksvSttXGW_TQlz"
+uri = "file://artifacts/tortas-y-tacos/src/assets/salsas.png"
+type = "image"
+title = "Salsas in molcajetes"
+
+[[generated]]
+id = "z3TmnlV1pj_iIDaiA5YFr"
+uri = "file://artifacts/tortas-y-tacos/src/assets/cebollitas.png"
+type = "image"
+title = "Grilled cebollitas de cambray"
